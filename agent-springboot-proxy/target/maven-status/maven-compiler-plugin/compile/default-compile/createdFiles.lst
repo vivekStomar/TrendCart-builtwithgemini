@@ -1,0 +1,5 @@
+com/retail/proxy/service/AgentProxyService.class
+com/retail/proxy/AgentProxyApplication.class
+com/retail/proxy/controller/AgentProxyController.class
+com/retail/proxy/dto/ChatRequest.class
+com/retail/proxy/dto/ChatResponse.class
